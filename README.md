@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning pentesting
 <!--
 **AllyPry/AllyPry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
