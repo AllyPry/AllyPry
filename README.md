@@ -1,6 +1,8 @@
 ### Hello there 👋
 
-- 🌱 I’m currently learning pentesting
+- OSINT lovers 🕵️‍♂️
+- Crypto degen ₿
+- Currently learning pentest 📖
 <!--
 **AllyPry/AllyPry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
