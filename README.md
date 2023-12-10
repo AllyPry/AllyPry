@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- OSINT lovers 🕵️‍♂️
+- OSINT lover 🕵️‍♂️
 - Crypto degen ₿
 - Currently learning pentest 📖
 
