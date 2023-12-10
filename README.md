@@ -1,7 +1,8 @@
 ### Hello there 👋
 
 - OSINT lover 🕵️‍♂️
-- Crypto degen ₿
+- Bitcoin enthusiast ₿
+- Blockchain analyst 🔗
 - Currently learning pentest 📖
 
 ### Follow me 🌐
