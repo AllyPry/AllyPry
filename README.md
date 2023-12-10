@@ -8,6 +8,9 @@
 
 - 𝕏 @allypry
 - Medium @allypry
+
+![image](https://github.com/AllyPry/AllyPry/assets/129699558/fc8fa246-7f13-4c7c-8ee0-c7fa2c07966e)
+
 <!--
 **AllyPry/AllyPry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
