@@ -9,6 +9,17 @@
 - Blockchain analyst 🔗
 - Currently learning pentest 📖
 
+---
+
+### Skills
+
+- Blockchain investigation ₿
+- Solidity Ξ
+- Pentest 💻
+- Red Team 🥷🏻
+
+---
+
 ### Follow me 🌐
 
 - 𝕏 @allypry
