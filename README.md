@@ -4,14 +4,14 @@
 
 ### Hello there 👋
 
-- OSINT lover 🕵️‍♂️
+- OSINT addict 🕵️‍♂️
 - Bitcoin enthusiast ₿
 - Blockchain analyst 🔗
-- Currently learning pentest 📖
+- Pentest lover 🐱‍💻
 
 ---
 
-### Skills
+### Skills 📚
 
 - Blockchain investigation ₿
 - Solidity Ξ
