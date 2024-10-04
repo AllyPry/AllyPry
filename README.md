@@ -13,7 +13,8 @@
 
 ### Skills 📚
 
-- Blockchain investigation ₿
+- OSINT 🔍
+- BlockINT & Blockchain investigation ₿
 - Solidity Ξ
 - Pentest 💻
 - Red Team 🥷🏻
@@ -22,8 +23,8 @@
 
 ### Follow me 🌐
 
-- 𝕏 @allypry
-- Medium @allypry
+- 𝕏 [@allypry](https://x.com/allypry)
+- Medium [@allypry](https://medium.com/@allypry)
 
 <!--
 **AllyPry/AllyPry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
