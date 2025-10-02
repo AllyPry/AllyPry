@@ -24,7 +24,6 @@
 ### Follow me 🌐
 
 - 𝕏 [@allypry](https://x.com/allypry)
-- Medium [@allypry](https://medium.com/@allypry)
 
 <!--
 **AllyPry/AllyPry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
