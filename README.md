@@ -6,9 +6,9 @@
 
 - OSINT addict 🕵️‍♂️
 - Bitcoin enthusiast ₿
-- Monero maximalist 
+- Monero maximalist 🥷​
 - Blockchain analyst 🔗
-- Pentest lover 🐱‍💻
+- Privacy defender 🔒​
 
 ---
 
