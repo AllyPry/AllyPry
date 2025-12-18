@@ -6,6 +6,7 @@
 
 - OSINT addict 🕵️‍♂️
 - Bitcoin enthusiast ₿
+- Monero maximalist 
 - Blockchain analyst 🔗
 - Pentest lover 🐱‍💻
 
