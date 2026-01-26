@@ -8,7 +8,8 @@
 - Bitcoin enthusiast ₿
 - Monero maximalist 🥷​
 - Blockchain analyst 🔗
-- Privacy defender 🔒​
+- Privacy defender 🔒
+- Cypherpunk spirit ✊​​
 
 ---
 
