@@ -1,7 +1,5 @@
 <div align="center">
 
-# allypry@github
-
 [![X](https://img.shields.io/badge/@allypry-0B0F14?style=flat-square&logo=x&logoColor=C9D1D9&labelColor=0B0F14)](https://x.com/allypry)
 
 </div>
